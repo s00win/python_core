@@ -1,5 +1,5 @@
 FILENAME = "flt_numbers.txt"
-PRECISION = 6  # количество значащих цифр при выводе
+PRECISION = 6
 
 
 def read_numbers(path: str) -> list[float]:
