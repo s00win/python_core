@@ -1,0 +1,17 @@
+{
+  "total": 6,
+  "counts": {
+    "PASS": 3,
+    "FAIL": 2,
+    "SKIP": 1
+  },
+  "failed_tests": [
+    "test_logout",
+    "test_payment"
+  ],
+  "longest_test": {
+    "name": "test_payment",
+    "duration": 3.45
+  },
+  "total_duration": 9.5
+}
